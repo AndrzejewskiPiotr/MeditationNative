@@ -1,8 +1,6 @@
 import styled from 'styled-components';
 import { View } from 'react-native';
 
-const Wrapper = styled(View)`
+const Wrapper = styled(View)``;
 
-`;
-
-export { Wrapper };
+export default Wrapper;
